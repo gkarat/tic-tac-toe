@@ -12,3 +12,5 @@ Alternative Tic-Tac-Toe game
 - width and height >= 3
 - two last arguments are for defining player1 and player2
 - h is for human and c is for computer
+
+##### This game was a part of my homework, special thanks to David Dobrovolny and Radim Sasinka
